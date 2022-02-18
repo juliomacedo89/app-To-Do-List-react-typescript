@@ -1,2 +1,2 @@
-# to-do-react
-To-do list utilizando React.
+TO-DO LIST
+To-do list: aplicação responsiva utilizando React Js e Typescript.
