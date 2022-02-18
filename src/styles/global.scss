@@ -1,5 +1,5 @@
 :root {
-  --blue: #273FAD;
+  --greenBack: #075544;
   --green: #3FAD27;
   --red: 	#ad273f;
   --background: #EBEBEB;
@@ -25,8 +25,8 @@ input, textarea {
 }
 
 .container {
-  max-width: 1120px;
-  margin: 0 auto;
+  max-width: 1000px;
+  margin: 0 auto 2.5rem auto;
   padding: 2.5rem 1rem;
 }
 

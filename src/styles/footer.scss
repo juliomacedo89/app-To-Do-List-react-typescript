@@ -1,0 +1,18 @@
+footer{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+    margin-top: 230px;
+
+    span{
+        display: block;
+        text-align: center;
+        margin-bottom: 0.5rem;
+    }
+
+    .social{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+}
